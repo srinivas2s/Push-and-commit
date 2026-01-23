@@ -26,3 +26,7 @@ git add .
 git commit -m "Another update"
 git push
 ```
+To check the status 
+```
+git status
+```
